@@ -246,6 +246,18 @@ th {
 }
 space-between {
 }
+.aboutus  {
+    margin-top: 725px;
+    margin-left: -503px;
+}
+.navbarcart {
+}
+.cottonimg {
+    display: inherit;
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
